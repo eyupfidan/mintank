@@ -5,7 +5,7 @@ require 'PHPMailer-5.2-stable/PHPMailerAutoload.php';
 $mail = new PHPMailer;
 $mail->Host = 'localhost'; 
 $mail->SMTPAuth = true;                               
-$mail->Username = 'info@mintank.com';                 
+$mail->Username = 'info@mintank.comm';                 
 $mail->Password = '2Sm0it9^';                           
 $mail->SMTPSecure = 'tls';                           
 $mail->Port = 25;                                
